@@ -4,7 +4,7 @@
 
 ### Sabendo que não há um front-end acoplado ao algoritmo para restringir a forma como o usuário interage com o sistema, imaginei uma condição favorável: Meu algoritmo seria pensado para um sistema orientado por teclado numérico ou eventualmente embarcado em um sistema de entrada ABNT completo necessitando de uma didática que entregasse autonomia e independência ao usuário leigo.
 
-([Imgur](https://i.imgur.com/Skd9VYk.gifv))
+![alt-text](https://i.imgur.com/Skd9VYk.gif))
 
 ###Pensando na humanização do sistema, sem recursos de inteligência artificial, considerei utilizar função sleep do módulo time para gerar tempos de espera entre orientações de uso, mitigando erros e resultados imprecisos. 
 
